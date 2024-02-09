@@ -1,0 +1,8 @@
+Age = input('Enter your age')
+Number = input ('Enter you number')
+Result = int(Age)+int(Number)
+message = 'Age of {} and number of {} is {},Thank you'.format(Age,Number,Result)
+print(message )
+
+
+____________________________________________________
